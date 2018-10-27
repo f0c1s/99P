@@ -11,3 +11,8 @@ https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems
 Given a list, find the last element.
 
 [Haskell](./Haskell/1.last-element.md) | [JavaScript](./JavaScript/1.last-element.md)
+
+### 2. second last element
+
+Given a list, find the last but one element (aka second last)
+
